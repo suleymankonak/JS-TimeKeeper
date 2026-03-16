@@ -89,7 +89,7 @@ cd Sure-Sayaci
 | **CSS3** | Glassmorphism, keyframe animasyonlar, CSS değişkenleri |
 | **Vanilla JS (ES6+)** | Modüler mantık, DOM yönetimi |
 | **[Day.js](https://day.js.org/)** | Hafif (2 kB), hızlı tarih/süre kütüphanesi — `duration` eklentisi ile |
-| **Hesaplamalar ve Renk Fonları Yapay Zeka Yardımı İle Yapıldı** |
+| **Hesaplamalar ve Renk Fontları Yapay Zeka Yardımı İle Kodlandı** |Kapsamlı karmaşık yapılardan kaçınmak ve döneme uygun bir tasarım hazırlamak amacıyla|
 ---
 
 ## 📸 Ekran Görüntüleri
